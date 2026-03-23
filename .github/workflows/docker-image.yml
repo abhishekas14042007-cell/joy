@@ -1,4 +1,4 @@
-name: Build and Push Java Hello World
+name: Build and Push Java Hello 
 
 on:
   push:
